@@ -15,32 +15,21 @@ Developed a Chess-playing AI program, aimed at helping newer players improve the
 
 <p align="center">
 Run the program: <br/>
-<img src="https://live.staticflickr.com/65535/54833701481_7836c0658a_z.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://live.staticflickr.com/65535/54833701481_7836c0658a_z.jpg" height="80%" width="80%"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Main menu to select the number of players (either against AI or another user), level of difficulty and colour if playing against the AI as well:  <br/>
+<img src="https://live.staticflickr.com/65535/54833962888_7bfc821786_n.jpg" height="80%" width="80%"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Possible moves of a selected piece highlighted in yellow: <br/>
+<img src="https://live.staticflickr.com/65535/54834044350_f09ca67ac4.jpg" height="80%" width="80%"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Example gameplay with movelog on the right:  <br/>
+<img src="https://live.staticflickr.com/65535/54833956514_4bf1dae34a.jpg" height="80%" width="80%"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
 <!--
  ```diff
