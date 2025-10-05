@@ -1,4 +1,4 @@
-<h1>JWipe - Disk Sanitization</h1>
+<h1>Chess Playing AI</h1>
 
  ### [YouTube Demonstration](https://www.youtube.com/watch?v=DnFOBcfdKRY&list=PLo4PnzVLa5TEasxDLQYP8Dp9-u-cKrVT_)
 
@@ -10,13 +10,12 @@ Developed a Chess-playing AI program, aimed at helping newer players improve the
 <h2>Languages and Utilities Used</h2>
 
 - <b>Python</b> 
-- <b></b>
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Run the program: <br/>
+<img src="https://live.staticflickr.com/65535/54833701481_7836c0658a_z.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
