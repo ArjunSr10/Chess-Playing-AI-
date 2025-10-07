@@ -11,22 +11,22 @@ Developed a Chess-playing AI program, aimed at helping newer players improve the
 
 - <b>Python</b> 
 
-<h2>Program walk-through:</h2>
+<h2><b>Program walk-through:</b></h2>
 
 <p align="center">
-Run the program: <br/>
+<b>Run the program: </b><br/>
 <img src="https://live.staticflickr.com/65535/54833701481_7836c0658a_z.jpg" height="80%" width="80%"/>
 <br />
 <br />
-Main menu to select the number of players (either against AI or another user), level of difficulty and colour if playing against the AI as well:  <br/>
+<b>Main menu to select the number of players (either against AI or another user), level of difficulty and colour if playing against the AI as well:  </b><br/>
 <img src="https://live.staticflickr.com/65535/54833962888_7bfc821786_n.jpg" height="80%" width="80%"/>
 <br />
 <br />
-Possible moves of a selected piece highlighted in yellow: <br/>
+<b>Possible moves of a selected piece highlighted in yellow: </b><br/>
 <img src="https://live.staticflickr.com/65535/54834044350_f09ca67ac4.jpg" height="80%" width="80%"/>
 <br />
 <br />
-Example gameplay with movelog on the right:  <br/>
+<b>Example gameplay with movelog on the right:  </b><br/>
 <img src="https://live.staticflickr.com/65535/54833956514_4bf1dae34a.jpg" height="80%" width="80%"/>
 <br />
 <br />
